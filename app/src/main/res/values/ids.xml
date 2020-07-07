@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="buttonDisplay" type="id" />
+    <item name="editTextName" type="id" />
+    <item name="textViewDisplay" type="id" />
+</resources>
